@@ -1,4 +1,4 @@
-# Enduin – AI Debugging for Embedded and Low Level Software
+# Enduin – Leading AI Debugger integrated with GDB 
 
 ## Spend Minutes, Not Hours Debugging – Get the Extension & Start for Free
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/Enduin.enduin?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=Enduin.enduin)
