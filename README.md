@@ -1,5 +1,6 @@
 # Enduin – AI Debugging for Embedded and Low Level Software
 
+## Spend Minutes, Not Hours Debugging – Get the Extension & Start for Free
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/Enduin.enduin?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=Enduin.enduin)
 [![Open VSX](https://img.shields.io/badge/OpenVSX-Enduin-blue)](https://open-vsx.org/extension/Enduin/enduin)
 
